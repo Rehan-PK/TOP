@@ -1,0 +1,1 @@
+node in terminal to open node, .exit to exit
